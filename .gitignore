@@ -1,4 +1,4 @@
-.myenv/
+.myenv
 # Python
 __pycache__/
 *.pyc
